@@ -1,2 +1,2 @@
 # Pred_Models
-Compilation of models of prediction of brain tumors using  public dataset
+Compilation of prediction models of brain tumors by using public datasets.
